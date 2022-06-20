@@ -1,0 +1,8 @@
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\bin\Debug\Задание 2.exe.config
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\bin\Debug\Задание 2.exe
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\bin\Debug\Задание 2.pdb
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\obj\Debug\Задание 2.exe
+C:\Users\PonyStrapony\Desktop\Praktika2022-main\Pract3\Task2\obj\Debug\Задание 2.pdb
